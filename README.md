@@ -29,7 +29,7 @@ The archived tar-ball is automatically downloaded and extracted by using the [we
 According to the instructions on NCDC's web-site, this data can only be used and redistributed for non-commercial purposes.
 
 
-## Denmark
+## Location
 
 ![Denmark](images/Denmark.jpg) ![Europe](images/Europe.jpg)
 
