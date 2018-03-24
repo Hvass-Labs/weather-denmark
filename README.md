@@ -2,8 +2,6 @@
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/weather-denmark)
 
-![Denmark](images/Denmark.jpg) ![Europe](images/Europe.jpg)
-
 
 ## Data Overview
 
@@ -24,6 +22,11 @@ The raw data-file had some formatting problems that had to be corrected manually
 ## Installation
 
 The archived tar-ball is automatically downloaded and extracted by using the [weather.py](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/weather.py) module for Python.
+
+
+## Location
+
+![Denmark](images/Denmark.jpg) ![Europe](images/Europe.jpg)
 
 
 ## License
